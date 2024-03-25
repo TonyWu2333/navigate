@@ -1,0 +1,24 @@
+- name: 萌番组
+  url: https://bangumi.moe/
+  img: https://tonywu2333.github.io/tony%E7%9A%84%E5%AF%BC%E8%88%AA%E7%BD%91%E7%AB%99%20__files/1d91719d9a0308dcbaec741661f2de6.png
+  description: 动漫BT资源
+- name: 萌番组Lite
+  url: https://bangumi.moe/lite/
+  img: https://tonywu2333.github.io/tony%E7%9A%84%E5%AF%BC%E8%88%AA%E7%BD%91%E7%AB%99%20__files/1d91719d9a0308dcbaec741661f2de6.png
+  description: 萌番组Lite版
+- name: 动漫花园
+  url: https://www.dmhy.org/
+  img: https://www.dmhy.org/favicon.ico
+  description: 
+- name: 动漫花园镜像网站
+  url: https://garden.onekuma.cn/
+  img: https://garden.onekuma.cn/favicon.svg
+  description: 
+- name: SUBPLEASE
+  url: https://subsplease.org/
+  img: https://subsplease.org/favicon.ico
+  description: 全英文日漫资源
+- name: 诸神字幕组
+  url: https://subs.kamigami.org/
+  img: https://subs.kamigami.org/wp-content/themes/a-supercms-3.9-pro/favicon.ico
+  description: 

@@ -1,0 +1,20 @@
+- name: skidrowcodex
+  url: https://www.skidrowcodex.net/
+  img: https://www.skidrowcodex.net/wp-content/uploads/2018/12/1.png
+  description: 
+- name: skidrowreloaded
+  url: https://www.skidrowreloaded.com/
+  img: https://www.skidrowreloaded.com/wp-content/uploads/2018/06/cropped-faviicon-32x32.png
+  description: 
+- name: skidrowcpy
+  url: https://skidrowcpy.games/
+  img: https://skidrowcpy.games/wp-content/uploads/2019/06/favicon.ico
+  description: 
+- name: curseforge
+  url: https://www.curseforge.com/
+  img: https://static-beta.curseforge.com/images/favicon.ico
+  description: mods资源网站
+- name: gamebanana
+  url: https://gamebanana.com/
+  img: https://images.gamebanana.com/static/img/favicon/favicon.ico
+  description: mods社区资源网站

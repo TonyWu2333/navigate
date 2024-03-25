@@ -1,0 +1,12 @@
+- name: bugku
+  url: https://ctf.bugku.com/
+  img: https://ctf.bugku.com/favicon.ico
+  description:
+- name: OWASP
+  url: https://ctf.etao.net/
+  img: https://ctf.etao.net/themes/core/static/img/favicon.ico?d=0f2a9574
+  description:
+- name: BUUCTF
+  url: https://buuoj.cn/
+  img: https://buuoj.cn/themes/buu_core/static/img/favicon.ico
+  description:

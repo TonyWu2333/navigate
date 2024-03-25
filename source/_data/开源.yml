@@ -1,0 +1,16 @@
+- name: github
+  url: https://github.com/
+  img: https://github.com/fluidicon.png
+  description: 全球最大同性交友网站
+- name: gitee
+  url: https://gitee.com/
+  img: https://gitee.com/favicon.ico
+  description: 国内开源平台
+- name: sourceforge
+  url: https://sourceforge.net/
+  img: https://a.fsdn.com/con/img/sandiego/logo-180x180.png
+  description: 开源软件平台
+- name: stackoverflow
+  url: https://stackoverflow.org.cn/
+  img: https://stackoverflow.org.cn/favicon.ico
+  description: 计算机问答社区
