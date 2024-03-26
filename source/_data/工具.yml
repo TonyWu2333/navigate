@@ -1,0 +1,4 @@
+- name: QRBTF
+  url: https://qrbtf.com/zh
+  img: https://qrbtf.com/favicon.ico
+  description: 二维码生成器

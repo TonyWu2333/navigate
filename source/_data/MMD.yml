@@ -1,0 +1,12 @@
+- name: 模之屋
+  url: https://www.aplaybox.com/
+  img: https://www.aplaybox.com/favicon.ico
+  description: 
+- name: b碗
+  url: https://bowlroll.net/file/index
+  img: https://bowlroll.net/favicon.ico
+  description: 
+- name: nicovideo
+  url: https://3d.nicovideo.jp/?header
+  img: https://3d.nicovideo.jp/favicon.ico
+  description: 
