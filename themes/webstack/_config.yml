@@ -58,7 +58,7 @@ menu:
       - name: 游戏下载
         config: 游戏下载
   - name: MMD
-    icon: fas fa-child-dress
+    icon: fas fa-child
     config: MMD
 
 
