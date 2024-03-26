@@ -10,6 +10,10 @@
   url: https://fontawesome.com/
   img: https://fontawesome.com/favicon.ico
   description: 免费icon网站
+- name: diffchecker
+  url: https://www.diffchecker.com/
+  img: https://www.diffchecker.com/favicon.ico
+  description: 文本对比工具
 - name: wow.js
   url: https://wowjs.uk/
   img: https://wowjs.uk/favicon.ico
