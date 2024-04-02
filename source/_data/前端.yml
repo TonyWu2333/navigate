@@ -2,6 +2,10 @@
   url: https://developer.mozilla.org/zh-CN/
   img: https://developer.mozilla.org/favicon-48x48.cbbd161b.png
   description: Resources for Developers
+- name: Tailwind css
+  url: https://www.tailwindcss.cn/docs/installation
+  img: https://www.tailwindcss.cn/favicons/apple-touch-icon.png?v=3
+  description: 优美的css框架
 - name: Echarts
   url: https://echarts.apache.org/zh/index.html
   img: https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/zh/images/favicon.png
