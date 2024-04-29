@@ -1,0 +1,16 @@
+- name: mc百科
+  url: https://www.mcmod.cn/
+  img: https://www.mcmod.cn/static/public/images/favicon.ico
+  description: 模组信息查询
+
+- name: curseforge
+  url: https://www.curseforge.com/
+  img: https://static-beta.curseforge.com/images/favicon.ico
+  description: mods网站
+
+- name: modrinth
+  url: https://modrinth.com/
+  img: https://modrinth.com/favicon-light.ico
+  description: The place for Minecraft
+
+  

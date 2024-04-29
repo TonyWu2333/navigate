@@ -57,6 +57,8 @@ menu:
     submenu:
       - name: 游戏下载
         config: 游戏下载
+      - name: minecraft
+        config: minecraft
   - name: MMD
     icon: fas fa-child
     config: MMD
