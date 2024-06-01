@@ -46,6 +46,9 @@ menu:
         config: 在线动漫观看
       - name: 动漫资源下载
         config: 动漫资源下载
+  - name: 影视
+    icon: fas fa-video
+    config: 影视
   - name: 工具
     icon: fas fa-wrench
     config: 工具
