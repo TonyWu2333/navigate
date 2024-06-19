@@ -6,6 +6,10 @@
   url: https://www.tailwindcss.cn/docs/installation
   img: https://www.tailwindcss.cn/favicons/apple-touch-icon.png?v=3
   description: 优美的css框架
+- name: bulma
+  url: https://bulma.io/
+  img: https://bulma.io/favicons/apple-touch-icon.png?v=201701041855
+  description: 现代化CSS框架
 - name: Echarts
   url: https://echarts.apache.org/zh/index.html
   img: https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/zh/images/favicon.png
