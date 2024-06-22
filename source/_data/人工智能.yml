@@ -18,6 +18,14 @@
   url: https://yiyan.baidu.com/
   img: https://nlp-eb.cdn.bcebos.com/logo/favicon.ico
   description: 百度的大语言模型
+- name: hugging face
+  url: https://huggingface.co/
+  img: https://huggingface.co/favicon.ico
+  description: 著名开源AI模型与数据集网站
+- name: kaggle
+  url: https://www.kaggle.com/
+  img: https://www.kaggle.com/static/images/favicon.ico
+  description: AI模型与数据集网站
 - name: ultimate vocal
   url: https://ultimatevocalremover.com/
   img: https://img1.wsimg.com/isteam/ip/27b42b0b-4e5c-4246-8229-db96bd3bf24e/GUI-Icon.png/:/rs=w:57,h:57,m
