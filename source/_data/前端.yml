@@ -18,6 +18,10 @@
   url: https://bulma.io/
   img: https://bulma.io/favicons/apple-touch-icon.png?v=201701041855
   description: 现代化CSS框架
+- name: artplayer
+  url: https://artplayer.org/
+  img: https://artplayer.org/assets/img/favicon.ico
+  description: h5视频播放器
 - name: Echarts
   url: https://echarts.apache.org/zh/index.html
   img: https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/zh/images/favicon.png
