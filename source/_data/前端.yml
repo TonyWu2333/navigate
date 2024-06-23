@@ -46,6 +46,10 @@
   url: https://uiverse.io/
   img: https://uiverse.io/favicon-16x16.png
   description: 开源前端elements
+- name: vercel
+  url: https://vercel.com/
+  img: https://vercel.com/favicon.ico
+  description: 静态网站部署平台
 - name: 新拟态风格
   url: https://neumorphism.io/#e0e0e0
   img: https://neumorphism.io/favicon.ico
