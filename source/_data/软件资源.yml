@@ -1,0 +1,16 @@
+- name: portableapps
+  url: https://portableapps.com/
+  img: https://portableapps.com/favicon.ico
+  description: 便携式软件下载
+- name: diakov
+  url: https://diakov.net/
+  img: https://diakov.net/favicon.ico
+  description: 俄国软件资源网站
+- name: RARBG
+  url: https://rarbg.so/
+  img: https://rarbg.so/favicon.ico
+  description: BT资源网站
+
+  
+
+  

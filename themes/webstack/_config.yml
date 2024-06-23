@@ -55,6 +55,9 @@ menu:
   - name: 学习
     icon: iconfont icon-study
     config: 学习
+  - name: 软件资源
+    icon: fas fa-download
+    config: 软件资源
   - name: 游戏
     icon: fas fa-gamepad
     submenu:
