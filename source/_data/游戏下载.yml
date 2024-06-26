@@ -10,10 +10,14 @@
   url: https://skidrowcpy.games/
   img: https://skidrowcpy.games/wp-content/uploads/2019/06/favicon.ico
   description: 
+- name: flysheep
+  url: https://www.flysheep6.com/
+  img: https://images.weserv.nl/?url=https://r534.com/flysheep/i/2023/02/25/5fgq.jpg
+  description: 游戏资源避难所 
 - name: fitgirl repacks
   url: https://fitgirl-repacks.site/
   img: https://fitgirl-repacks.site/favicon.ico
-  description: 游戏repacks  
+  description: 游戏repacks 
 - name: curseforge
   url: https://www.curseforge.com/
   img: https://static-beta.curseforge.com/images/favicon.ico
@@ -22,3 +26,5 @@
   url: https://gamebanana.com/
   img: https://images.gamebanana.com/static/img/favicon/favicon.ico
   description: mods社区资源网站
+
+  
