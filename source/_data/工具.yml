@@ -1,4 +1,16 @@
+- name: 123apps
+  url: https://123apps.com/cn/
+  img: https://convert.io/static/i/v3/favicon.svg
+  description: 强大的工具网站
+- name: aconvert
+  url: https://www.aconvert.com/
+  img: https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.aconvert.com&size=16
+  description: 格式转化网站
 - name: QRBTF
   url: https://qrbtf.com/zh
   img: https://qrbtf.com/favicon.ico
   description: 二维码生成器
+- name: PDFcandy
+  url: https://pdfcandy.com/cn/
+  img: https://pdfcandy.com/favicon.ico
+  description: PDF在线编辑

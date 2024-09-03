@@ -65,6 +65,9 @@ menu:
         config: 游戏下载
       - name: minecraft
         config: minecraft
+  - name: 音乐
+    icon: fas fa-music
+    config: 音乐
   - name: MMD
     icon: fas fa-child
     config: MMD

@@ -14,3 +14,15 @@
   url: https://sm.ms/
   img: https://sm.ms/favicon.ico
   description: 免费图床
+- name: tcp.ping
+  url: https://tcp.ping.pe/
+  img: https://tcp.ping.pe/favicon.ico
+  description: 测试服务器端口
+- name: cloudflare
+  url: https://www.cloudflare.com/zh-cn/
+  img: https://www.cloudflare.com/favicon.ico
+  description: CDN,DNS
+- name: dogyun
+  url: https://console.dogyun.com/
+  img: https://assets.dogyun.com/home/img/logo-128px.png
+  description: 性价比服务器

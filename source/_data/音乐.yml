@@ -1,0 +1,12 @@
+- name: 六音
+  url: https://www.sixyin.com/
+  img: https://www.sixyin.com/favicon.ico
+  description: 免费音源
+- name: HEmusic
+  url: https://music.wjhe.top/
+  img: https://music.wjhe.top/favicon.ico
+  description: 在线免费音乐网站
+- name: slider.kz
+  url: https://hayqbhgr.slider.kz/
+  img: https://hayqbhgr.slider.kz/favicon.ico
+  description: 音乐资源下载

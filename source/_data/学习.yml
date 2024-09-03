@@ -1,3 +1,7 @@
+- name: zlibrary
+  url: https://zh.singlelogin.re/
+  img: https://zh.singlelogin.re/favicon.ico
+  description: 书籍资源网站
 - name: 学习通
   url: https://zjut.fanya.chaoxing.com/portal
   img: https://android-artworks.25pp.com/fs08/2021/07/19/1/106_81ef6e834ce4919f3aa78e2e7976c4b7_con_130x130.png
