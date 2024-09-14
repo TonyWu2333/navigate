@@ -18,6 +18,10 @@
   url: https://yiyan.baidu.com/
   img: https://nlp-eb.cdn.bcebos.com/logo/favicon.ico
   description: 百度的大语言模型
+- name: suno
+  url: https://suno.com/
+  img: https://suno.com/favicon.ico
+  description: 音乐合成模型
 - name: hugging face
   url: https://huggingface.co/
   img: https://huggingface.co/favicon.ico
