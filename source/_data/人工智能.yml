@@ -42,3 +42,7 @@
   url: https://metaso.cn/
   img: https://metaso.cn/favicon.ico
   description: AI搜索网站
+- name: unsloth
+  url: https://unsloth.ai/
+  img: https://unsloth.ai/cgi/image/unsloth_logo_no_shadow_KgfOV6keeBZnffQsKUny3.png?width=96&quality=80&format=auto
+  description: 大模型微调框架
