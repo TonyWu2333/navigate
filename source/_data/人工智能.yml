@@ -46,3 +46,11 @@
   url: https://unsloth.ai/
   img: https://unsloth.ai/cgi/image/unsloth_logo_no_shadow_KgfOV6keeBZnffQsKUny3.png?width=96&quality=80&format=auto
   description: 大模型微调框架
+- name: monica
+  url: https://monica.im/
+  img: https://monica.im/logo.png
+  description: AI浏览器插件很好用
+- name: ollama
+  url: https://ollama.com/
+  img: https://ollama.com/public/icon-64x64.png
+  description: 本地部署AI模型
