@@ -54,3 +54,7 @@
   url: https://ollama.com/
   img: https://ollama.com/public/icon-64x64.png
   description: 本地部署AI模型
+- name: ComfyUI
+  url: https://www.comfy.org/
+  img: https://framerusercontent.com/images/7Nhoxwn9eWYrqKjEewfXutR90U.png
+  description: AI绘画工作流UI

@@ -2,6 +2,10 @@
   url: https://123apps.com/cn/
   img: https://convert.io/static/i/v3/favicon.svg
   description: 强大的工具网站
+- name: excalidraw
+  url: https://excalidraw.com/
+  img: https://excalidraw.com/favicon-32x32.png
+  description: 手绘原型图
 - name: aconvert
   url: https://www.aconvert.com/
   img: https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.aconvert.com&size=16
