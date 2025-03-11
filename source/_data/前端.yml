@@ -78,3 +78,7 @@
   url: https://scrimba.com/
   img: https://cdn.jsdelivr.net/npm/hassan-assets/navi/alphabet/Letter_S.png
   description: 前端互动式学习网站
+- name: daisyUI
+  url: https://daisyui.com/
+  img: https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg
+  description: 基于Tailwind css的组件库
