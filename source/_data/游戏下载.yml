@@ -30,5 +30,8 @@
   url: https://www.nexusmods.com/
   img: https://www.nexusmods.com/favicon.ico
   description: n网
-
+- name: freeTP
+  url: https://freetp.org/
+  img: https://freetp.org/favicon.ico
+  description: 联机补丁
   
