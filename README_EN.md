@@ -1,3 +1,6 @@
+> [!WARNING]
+> **This repository is no longer maintained.** For the latest version, see 👉 [webstack-modern](https://github.com/TonyWu2333/webstack-modern)
+
 # hexo-theme-webstack
 
 [中文文档](https://github.com/HCLonely/hexo-theme-webstack/blob/master/README_CN.md)

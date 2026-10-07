@@ -1,3 +1,6 @@
+> [!WARNING]
+> **本仓库已停止维护。** 最新版本请移步 👉 [webstack-modern](https://github.com/TonyWu2333/webstack-modern)
+
 # Hexo 版 WebStack 主题导航网站 - 由 HarrisWong 美化
 
 一款基于[WebStackPage](https://github.com/WebStackPage/WebStackPage.github.io)的 Hexo 主题，由[HarrisWong](https://blog.harriswong.top/)二创，主要**对外观进行了美化魔改**，本篇 markdown 文档微改于[HCLonely](https://github.com/HCLonely/hexo-theme-webstack/blob/master/README_CN.md)。若是喜欢我的美化二创，那就直接 fork 本项目的**source 分支**即可，喜欢的话点个 ⭐ 支持一下！
